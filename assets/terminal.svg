@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1160" viewBox="0 0 1200 1160" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-label="Terminal card: anshul@github neofetch. Senior Software Engineer, 9+ years, TypeScript, Go, Node.js. Shipped: PrepTalk, TypeNinja, Text2Query.ai, TOON Converter.">
+<defs>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation="6" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#000" opacity="0.18"/>
+  </pattern>
+</defs>
+<rect width="1200" height="1160" fill="#0d1117" rx="22"/>
+<rect x="1" y="1" width="1198" height="1158" rx="22" fill="#0b0f14" stroke="#30363d" stroke-width="2"/>
+<path d="M1 60 V23 a22 22 0 0 1 22 -22 H1177 a22 22 0 0 1 22 22 V60 Z" fill="#161b22"/>
+<line x1="1" y1="60" x2="1199" y2="60" stroke="#30363d" stroke-width="2"/>
+<circle cx="36" cy="31" r="9" fill="#ff5f57"/>
+<circle cx="68" cy="31" r="9" fill="#febc2e"/>
+<circle cx="100" cy="31" r="9" fill="#28c840"/>
+<text x="600.0" y="39" font-size="22" font-weight="normal" fill="#8b949e" text-anchor="middle">anshul@github: ~ — zsh</text>
+<rect x="1" y="61" width="1198" height="1098" fill="url(#scan)" opacity="0.35"/>
+<text x="40" y="118" font-size="26"><tspan fill="#7ee787" font-weight="bold">anshul@github</tspan><tspan fill="#e6edf3">:</tspan><tspan fill="#79c0ff" font-weight="bold">~</tspan><tspan fill="#e6edf3">$ neofetch</tspan></text>
+<g filter="url(#glow)">
+<rect x="216" y="200" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="250" y="200" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="284" y="200" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="318" y="200" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="114" y="234" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="148" y="234" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="182" y="234" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="216" y="234" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="250" y="234" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="284" y="234" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="318" y="234" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="352" y="234" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="386" y="234" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="420" y="234" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="80" y="268" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="114" y="268" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="148" y="268" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="182" y="268" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="216" y="268" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="250" y="268" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="284" y="268" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="318" y="268" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="352" y="268" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="386" y="268" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="420" y="268" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="454" y="268" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="80" y="302" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="114" y="302" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="148" y="302" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="250" y="302" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="284" y="302" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="386" y="302" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="420" y="302" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="454" y="302" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="80" y="336" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="114" y="336" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="148" y="336" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="182" y="336" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="216" y="336" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="250" y="336" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="284" y="336" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="318" y="336" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="352" y="336" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="386" y="336" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="420" y="336" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="454" y="336" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="182" y="370" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="216" y="370" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="318" y="370" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="352" y="370" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="148" y="404" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="182" y="404" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="250" y="404" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="284" y="404" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="352" y="404" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="386" y="404" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="80" y="438" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="114" y="438" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="420" y="438" width="30" height="30" rx="6" fill="#7ee787"/>
+<rect x="454" y="438" width="30" height="30" rx="6" fill="#7ee787"/>
+</g>
+<text x="540" y="168" font-size="26" font-weight="bold" fill="#7ee787" >anshul@github</text>
+<text x="540" y="202" font-size="26" font-weight="normal" fill="#8b949e" >─────────────</text>
+<text x="540" y="242" font-size="26" font-weight="bold" fill="#7ee787" >Name:</text>
+<text x="670" y="242" font-size="26" font-weight="normal" fill="#e6edf3" >Anshul Dharmadhikari</text>
+<text x="540" y="282" font-size="26" font-weight="bold" fill="#7ee787" >Role:</text>
+<text x="670" y="282" font-size="26" font-weight="normal" fill="#e6edf3" >Senior Software Engineer</text>
+<text x="540" y="322" font-size="26" font-weight="bold" fill="#7ee787" >Uptime:</text>
+<text x="670" y="322" font-size="26" font-weight="normal" fill="#e6edf3" >9+ years in production</text>
+<text x="540" y="362" font-size="26" font-weight="bold" fill="#7ee787" >OS:</text>
+<text x="670" y="362" font-size="26" font-weight="normal" fill="#e6edf3" >Backend &amp; distributed systems</text>
+<text x="540" y="402" font-size="26" font-weight="bold" fill="#7ee787" >Kernel:</text>
+<text x="670" y="402" font-size="26" font-weight="normal" fill="#e6edf3" >TypeScript, Go, Node.js</text>
+<text x="540" y="442" font-size="26" font-weight="bold" fill="#7ee787" >Shell:</text>
+<text x="670" y="442" font-size="26" font-weight="normal" fill="#e6edf3" >NestJS, Express, React</text>
+<text x="540" y="482" font-size="26" font-weight="bold" fill="#7ee787" >Arch:</text>
+<text x="670" y="482" font-size="26" font-weight="normal" fill="#e6edf3" >DDD · event-driven services</text>
+<text x="540" y="522" font-size="26" font-weight="bold" fill="#7ee787" >Ops:</text>
+<text x="670" y="522" font-size="26" font-weight="normal" fill="#e6edf3" >Docker, Kubernetes, AWS, CI/CD</text>
+<text x="540" y="562" font-size="26" font-weight="bold" fill="#7ee787" >Data:</text>
+<text x="670" y="562" font-size="26" font-weight="normal" fill="#e6edf3" >PostgreSQL, Redis, Kafka</text>
+<text x="540" y="602" font-size="26" font-weight="bold" fill="#7ee787" >Host:</text>
+<text x="670" y="602" font-size="26" font-weight="normal" fill="#e6edf3" >Praestator Tech · Gzira, Malta</text>
+<text x="540" y="642" font-size="26" font-weight="bold" fill="#7ee787" >Web:</text>
+<text x="670" y="642" font-size="26" font-weight="normal" fill="#e6edf3" >ad12-codes.work</text>
+<text x="540" y="682" font-size="26" font-weight="bold" fill="#7ee787" >Mail:</text>
+<text x="670" y="682" font-size="26" font-weight="normal" fill="#e6edf3" >anshul.dharmadhikari@live.com</text>
+<rect x="540" y="728" width="60" height="36" fill="#ff7b72"/>
+<rect x="600" y="728" width="60" height="36" fill="#ffa657"/>
+<rect x="660" y="728" width="60" height="36" fill="#e3b341"/>
+<rect x="720" y="728" width="60" height="36" fill="#7ee787"/>
+<rect x="780" y="728" width="60" height="36" fill="#56d4dd"/>
+<rect x="840" y="728" width="60" height="36" fill="#79c0ff"/>
+<rect x="900" y="728" width="60" height="36" fill="#d2a8ff"/>
+<rect x="960" y="728" width="60" height="36" fill="#c9d1d9"/>
+<text x="40" y="834" font-size="26"><tspan fill="#7ee787" font-weight="bold">anshul@github</tspan><tspan fill="#e6edf3">:</tspan><tspan fill="#79c0ff" font-weight="bold">~</tspan><tspan fill="#e6edf3">$ ls ~/shipped/</tspan></text>
+<text x="40" y="874" font-size="26" fill="#79c0ff" font-weight="bold"><tspan>preptalk/</tspan><tspan dx="40">typeninja/</tspan><tspan dx="40">text2query.ai/</tspan><tspan dx="40">toon-converter.cloud/</tspan></text>
+<text x="40" y="928" font-size="26"><tspan fill="#7ee787" font-weight="bold">anshul@github</tspan><tspan fill="#e6edf3">:</tspan><tspan fill="#79c0ff" font-weight="bold">~</tspan><tspan fill="#e6edf3">$ cat ~/.plan</tspan></text>
+<text x="40" y="968" font-size="26"><tspan fill="#8b949e">[</tspan><tspan fill="#7ee787" font-weight="bold">x</tspan><tspan fill="#8b949e">]</tspan><tspan fill="#e6edf3" dx="14">build backends that stay up under load</tspan></text>
+<text x="40" y="1008" font-size="26"><tspan fill="#8b949e">[</tspan><tspan fill="#7ee787" font-weight="bold">x</tspan><tspan fill="#8b949e">]</tspan><tspan fill="#e6edf3" dx="14">ship side projects, then explain the ideas inside them</tspan></text>
+<text x="40" y="1048" font-size="26"><tspan fill="#8b949e">[</tspan><tspan fill="#e3b341" font-weight="bold">~</tspan><tspan fill="#8b949e">]</tspan><tspan fill="#e6edf3" dx="14">write down what I learn  →  ad12-codes.work</tspan></text>
+<text x="40" y="1094" font-size="26"><tspan fill="#7ee787" font-weight="bold">anshul@github</tspan><tspan fill="#e6edf3">:</tspan><tspan fill="#79c0ff" font-weight="bold">~</tspan><tspan fill="#e6edf3">$ </tspan></text>
+<rect x="305" y="1070" width="15" height="30" fill="#7ee787"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
+</svg>
